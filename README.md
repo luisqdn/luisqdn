@@ -8,5 +8,5 @@
  <img align="center" alt ="LuisCSS" height="80" widht="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor">
 
  <div>
-  <a href= "nascime2004@gmail.com" img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>a>
+  <a href= "nascime2004@gmail.com" img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>>
  </div>
