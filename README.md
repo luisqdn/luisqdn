@@ -1,6 +1,4 @@
-## Hi there 👋
--System.out.print("Bem vindo(a) ao meu perfil")
-
+System.out.print("Bem vindo(a) ao meu perfil")
 <div>
  <a href="https://github.com/Luis-Felipe-Queiroz">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Felipe-Queiroz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
