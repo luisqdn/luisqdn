@@ -7,10 +7,10 @@
 </div>
 
 <div style="display: incline block"><br>
- <img align="center" alt ="LuisJava" height="30" widht="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
- <img align="center" alt ="LuisPython" height="30" widht="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
- <img align="center" alt ="LuisHTML" height="30" widht="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor">
- <img align="center" alt ="LuisCSS" height="30" widht="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor">
+ <img align="center" alt ="LuisJava" height="50" widht="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
+ <img align="center" alt ="LuisPython" height="50" widht="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
+ <img align="center" alt ="LuisHTML" height="50" widht="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor">
+ <img align="center" alt ="LuisCSS" height="50" widht="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor">
 
  <div>
   <a href= "nascime2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
