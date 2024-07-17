@@ -1,6 +1,11 @@
 ## Hi there 👋
 -System.out.print("Bem vindo(a) ao meu perfil")
 
+<div>
+ <a href="https://github.com/Luis-Felipe-Queiroz">
+ <image height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Felipe-Queiroz&show_icons_true&theme-dracula&include_all_commit=true&count_private=true"/>
+</div>
+
 <div style="display: incline block"><br>
  <img align="center" alt ="LuisJava" height="80" widht="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
  <img align="center" alt ="LuisPython" height="80" widht="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
