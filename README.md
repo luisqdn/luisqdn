@@ -3,9 +3,9 @@
 
 <div>
  <a href="https://github.com/Luis-Felipe-Queiroz">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Felipe-Queiroz&show_icons_true&theme- 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Felipe-Queiroz&show_icons=true&theme- 
  dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Felipe-Queiroz&layout=compact&langs_count=16theme-dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Felipe-Queiroz&layout=compact&langs_count=16&theme-dracula"/>
 </div>
 
 <div style="display: incline block"><br>
