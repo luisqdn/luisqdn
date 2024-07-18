@@ -4,7 +4,7 @@ System.out.print("Bem vindo(a) ao meu perfil")
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Felipe-Queiroz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Felipe-Queiroz&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-<div style="display: incline block"><br>
+<div> style="display: incline block"><br>
  <img align="center" alt ="LuisJava" height="50" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
  <img align="center" alt ="LuisPython" height="50" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
  <img align="center" alt ="LuisHTML" height="50" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor">
